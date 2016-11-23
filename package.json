@@ -1,0 +1,11 @@
+{
+  "name": "slack-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sam Lord",
+  "license": "MIT",
+  "dependencies": {
+    "escape-string-regexp": "^1.0.5",
+    "slack": "^8.1.1"
+  }
+}
