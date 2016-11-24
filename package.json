@@ -6,6 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "escape-string-regexp": "^1.0.5",
+    "node-static": "^0.7.9",
     "slack": "^8.1.1"
   }
 }
